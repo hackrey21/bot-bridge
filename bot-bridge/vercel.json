@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/bot-bridge/ask",
+      "destination": "/bot-bridge/api.js"
+    }
+  ]
+}
